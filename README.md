@@ -4,7 +4,7 @@ This script is designed to execute commands or programs as administrator using D
 **Important Note:** If the program does not work on your device, try changing the delays in the code, the time of execution of certain actions directly depends on the speed of your computer.
 
 # Setup
-Download [Arduino IDE](https://github.com/arduino/arduino-ide) and setup it using this tutorial [Youtube](https://www.youtube.com/watch?v=fGmGBa-4cYQ)
+Download [Arduino IDE](https://github.com/arduino/arduino-ide) and setup it using this tutorial on [Youtube](https://www.youtube.com/watch?v=fGmGBa-4cYQ)
 
 # Script Description
 It calls the execution window (Win+R) and requests administrator rights by pressing Ctrl+Shift+Enter. Then the right arrow button and enter is used to confirm.
